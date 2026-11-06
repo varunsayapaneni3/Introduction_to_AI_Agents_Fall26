@@ -1,0 +1,11 @@
+# Demo project rules
+- Work only inside this folder. Never modify anything outside it.
+- Put scripts in scripts/, cleaned data in data/clean/, and results in outputs/.
+- Work in small steps: one script per step. Run it, then show a 5-line summary.
+- Before installing a package or downloading a model, say what and why, and wait for my OK.
+- Never delete files. Never print more than 20 rows of data.
+- Log every change to the data (what changed, how many rows) in outputs/changes.log.
+- Compute every number with code. Never state a statistic you did not compute in this session.
+- Keep scripts under ~80 lines, with short comments a beginner can follow.
+- If something fails, show the error, explain it in one sentence, and propose a fix before trying it.
+- Do not send data to any service except the configured model provider.
